@@ -9,7 +9,7 @@ Working on a solution to removing the noise from visual snow.
 ![alt image](https://github.com/efwoods/visial-snow/blob/fa42de8bc56d1f93f7a187d483f57b6a7c467214/vs-image/vs-lena/vs-lena.gif)
 
 ### Daily Vision with Visual Snow while eyes are shut:
-![alt text](https://github.com/efwoods/visial-snow/blob/fa42de8bc56d1f93f7a187d483f57b6a7c467214/vs-image/black-vs/black-vs.gif)
+![alt text](https://github.com/efwoods/visual-snow/blob/62f6eeba83fe6240d0b25b6b7085af9710279628/vs-image/eyes-closed-vs/eyes-closed-vs.gif)
 
 ## Solution
 1. Identify a the set of eeg signals that correspond to vision with complete darkness as a baseline.

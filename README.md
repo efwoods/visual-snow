@@ -20,3 +20,7 @@ Working on a solution to removing the noise from visual snow.
 ## References
 [Noise Removal in colored Images using Median Filter](https://www.youtube.com/watch?v=GCC52JCBbX0)
 [NIH Visual Snow Article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7136068/)
+
+## Related Repositories
+[Parkinson's Disease](https://github.com/efwoods/parkinsons-disease)
+[Tinnitus](https://github.com/efwoods/tinnitus)
